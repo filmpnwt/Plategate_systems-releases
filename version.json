@@ -1,0 +1,5 @@
+{
+  "version": "0.0.7",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.0.7/PlateGateSystemSetup.exe",
+  "release_notes": "First working release: license plate detection, entry-exit logging, blacklist system"
+}
