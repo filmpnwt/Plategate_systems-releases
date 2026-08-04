@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.0.7/PlateGateSystemSetup.exe",
-  "release_notes": "First working release: license plate detection, entry-exit logging, blacklist system"
+  "version": "0.0.9",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.0.9/PlateGateSystemSetup.exe",
+  "release_notes": "เพิ่ม Dashboard, ค่าจอดอัตโนมัติ, ตั้งค่าระบบได้ในโปรแกรม, เชื่อม YOLOX"
 }
