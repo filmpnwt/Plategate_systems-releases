@@ -1,5 +1,5 @@
 {
-  "version": "0.1.7",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.7/PlateGateSystemSetup.exe",
-  "release_notes": "เพิ่มระบบรองรับกล้องหลายตัวพร้อมกัน (จัดการกล้อง เพิ่ม/แก้/ลบได้), เชื่อมระบบเช็คอัปเดตอัตโนมัติเข้าโปรแกรมแล้ว"
+  "version": "0.1.8",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.8/PlateGateSystemSetup.exe",
+  "release_notes": "แก้ปัญหา OCR อ่านทะเบียนคลาดเคลื่อนทำให้นับรถซ้ำเป็นคนละคัน และจับคู่เข้า-ออกไม่ได้"
 }
