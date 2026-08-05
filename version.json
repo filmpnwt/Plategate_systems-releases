@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.3/PlateGateSystemSetup.exe",
-  "release_notes": "Security fix: ป้องกันการปลอมแปลง public key เพื่อสร้าง token ปลอม"
+  "version": "0.1.4",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.4/PlateGateSystemSetup.exe",
+  "release_notes": "แก้บั๊ก Errno 13 (Permission denied) ตอนติดตั้งใน Program Files, ย้ายข้อมูลไปเก็บที่ %LOCALAPPDATA% แทน"
 }
