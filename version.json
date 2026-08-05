@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.5/PlateGateSystemSetup.exe",
+  "version": "0.1.6",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.6/PlateGateSystemSetup.exe",
   "release_notes": "แก้ปัญหา public key หายกลับไปเป็น placeholder ระหว่างแก้ Errno 13"
 }
