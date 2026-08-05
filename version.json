@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.0.9/PlateGateSystemSetup.exe",
-  "release_notes": "เพิ่ม Dashboard, ค่าจอดอัตโนมัติ, ตั้งค่าระบบได้ในโปรแกรม, เชื่อม YOLOX"
+  "version": "0.1.1",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.1/PlateGateSystemSetup.exe",
+  "release_notes": "แก้บั๊ก public_key.pem และโมเดล YOLOX หาไฟล์ไม่เจอหลัง build, เพิ่มระบบความปลอดภัย (lockout, anti-debug, เข้ารหัสรูปภาพ)"
 }
