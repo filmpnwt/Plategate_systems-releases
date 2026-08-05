@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.6/PlateGateSystemSetup.exe",
-  "release_notes": "แก้ปัญหากล้อง RTSP ค้าง/ดีเลย์ (แยกอ่านภาพเป็น background thread, ปิด buffer ของ FFmpeg)"
+  "version": "0.1.7",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.7/PlateGateSystemSetup.exe",
+  "release_notes": "เพิ่มระบบรองรับกล้องหลายตัวพร้อมกัน (จัดการกล้อง เพิ่ม/แก้/ลบได้), เชื่อมระบบเช็คอัปเดตอัตโนมัติเข้าโปรแกรมแล้ว"
 }
