@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.1.9/PlateGateSystemSetup.exe",
-  "sha256": "(วางค่าที่ copy มาจาก Actions log)",
-  "release_notes": "เพิ่มระบบตรวจสอบ checksum ก่อนติดตั้งอัปเดต, บันทึกชื่อกล้องในประวัติ"
+  "version": "0.2.0",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.2.0/PlateGateSystemSetup.exe",
+  "sha256": "d33b6cb53d9d2d252aec2711f628bd961392f8c2fe5d1d1058ee120ba55c395d",
+  "release_notes": "เข้ารหัสฐานข้อมูลเต็มระบบ, เพิ่มระบบควบคุมไม้กั้น (จำลอง+รองรับ Raspberry Pi)"
 }
