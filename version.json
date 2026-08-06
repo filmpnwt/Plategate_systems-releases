@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.2.4/PlateGateSystemSetup.exe",
-  "sha256": "cfd092bbf11dd4eaac85ea99640ae075c12ff1f390b0b149bc5f5453e5cbe247",
-  "release_notes": "เพิ่มการใช้ GPU อัตโนมัติ (เร็วขึ้นมากถ้าเครื่องมี NVIDIA GPU), เพิ่มระบบจับคู่สมาชิก/บัญชีดำแบบทนความคลาดเคลื่อน"
+  "version": "0.3.0",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.3.0/PlateGateSystemSetup.exe",
+  "sha256": "9b1eb82c7e5ca94f5673a88b213ba65bcf807a253025a8686f2ba333570d783e",
+  "release_notes": "แก้ปัญหา UI ค้างตอนเปิด/ปิดกล้อง, เพิ่มระบบบันทึก log ลงไฟล์, แก้บั๊กระบบยืนยันทะเบียน, เพิ่มตรวจจับสีรถ, เพิ่มรองรับไม้กั้นผ่าน USB Relay"
 }
