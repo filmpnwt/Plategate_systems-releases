@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.3.0/PlateGateSystemSetup.exe",
-  "sha256": "9b1eb82c7e5ca94f5673a88b213ba65bcf807a253025a8686f2ba333570d783e",
-  "release_notes": "แก้ปัญหา UI ค้างตอนเปิด/ปิดกล้อง, เพิ่มระบบบันทึก log ลงไฟล์, แก้บั๊กระบบยืนยันทะเบียน, เพิ่มตรวจจับสีรถ, เพิ่มรองรับไม้กั้นผ่าน USB Relay"
+  "version": "0.3.2",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.3.2/PlateGateSystemSetup.exe",
+  "sha256": "5bea33febee89bab0122188e697789f92f94a27726a12fc904e0c3b838bf09c1",
+  "release_notes": "แก้ปัญหา EasyOCR ไม่ใช้ GPU, จำกัดไม้กั้นเปิดอัตโนมัติเฉพาะสมาชิกที่ลงทะเบียนไว้เท่านั้น (ป้องกันเปิดผิดจากการอ่านทะเบียนคลาดเคลื่อน)"
 }
