@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.2.2/PlateGateSystemSetup.exe",
-  "sha256": "4733d04fb8ae04c37aee6a0d377d9e9d262131056c03bbe9fe056efdd1c9e1de",
-  "release_notes": "ไม้กั้นเปิดอัตโนมัติเมื่อทะเบียนถูกต้อง, ปรับปรุงความแม่นยำ OCR, เพิ่ม debug log ช่วยวินิจฉัยปัญหา"
+  "version": "0.2.4",
+  "download_url": "https://github.com/filmpnwt/Plategate_systems-releases/releases/download/v0.2.4/PlateGateSystemSetup.exe",
+  "sha256": "cfd092bbf11dd4eaac85ea99640ae075c12ff1f390b0b149bc5f5453e5cbe247",
+  "release_notes": "เพิ่มการใช้ GPU อัตโนมัติ (เร็วขึ้นมากถ้าเครื่องมี NVIDIA GPU), เพิ่มระบบจับคู่สมาชิก/บัญชีดำแบบทนความคลาดเคลื่อน"
 }
